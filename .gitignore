@@ -1,0 +1,35 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/healthsource_frontend/node_modules
+/healthsource_backend/node_modules
+
+# next.js
+/healthsource_frontend/.next/
+/out/
+/build/
+/dist/
+
+# production
+/build
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files
+.env*
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# other files to ignore 
+.env.local
+.DS_Store
+npm-debug.log*

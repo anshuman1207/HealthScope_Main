@@ -1,0 +1,47 @@
+{
+  "predictions": [
+    {
+      "id": "pred_001",
+      "condition": "Type 2 Diabetes",
+      "riskScore": 85,
+      "confidence": 0.92,
+      "contributors": [
+        { "factor": "Fasting Glucose (180 mg/dL)", "impact": 0.35 },
+        { "factor": "BMI (31.2)", "impact": 0.28 },
+        { "factor": "Family History", "impact": 0.22 },
+        { "factor": "Age (45 years)", "impact": 0.15 }
+      ],
+      "recommendations": [
+        "Consult endocrinologist within 2 weeks",
+        "Start glucose monitoring",
+        "Dietary consultation recommended"
+      ]
+    },
+    {
+      "id": "pred_002",
+      "condition": "Hypertension",
+      "riskScore": 72,
+      "confidence": 0.88,
+      "contributors": [
+        { "factor": "Systolic BP (145 mmHg)", "impact": 0.4 },
+        { "factor": "Sodium Intake", "impact": 0.25 },
+        { "factor": "Stress Level", "impact": 0.2 },
+        { "factor": "Physical Activity", "impact": 0.15 }
+      ],
+      "recommendations": ["Monitor blood pressure daily", "Reduce sodium intake", "Increase physical activity"]
+    },
+    {
+      "id": "pred_003",
+      "condition": "Respiratory Infection",
+      "riskScore": 68,
+      "confidence": 0.79,
+      "contributors": [
+        { "factor": "Persistent Cough", "impact": 0.3 },
+        { "factor": "Fever (101.2°F)", "impact": 0.28 },
+        { "factor": "Chest Congestion", "impact": 0.25 },
+        { "factor": "Recent Travel", "impact": 0.17 }
+      ],
+      "recommendations": ["Rest and hydration", "Monitor symptoms for 48 hours", "Seek medical attention if worsening"]
+    }
+  ]
+}

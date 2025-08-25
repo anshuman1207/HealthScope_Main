@@ -1,0 +1,36 @@
+{
+  "doctor": ["Dashboard", "My Patients", "AI Analysis", "Appointments", "Alerts", "Messages", "Referrals", "Profile"],
+  "patient": [
+    "Dashboard",
+    "My Reports",
+    "Symptom Checker",
+    "Appointments",
+    "Nearby Clinics",
+    "My Health Plan",
+    "Vaccinations",
+    "Messages",
+    "Profile"
+  ],
+  "ngo": [
+    "Dashboard",
+    "Community Heatmap",
+    "Cases Needing Help",
+    "Match Suggestions",
+    "Outreach Planner",
+    "Resources",
+    "Messages",
+    "Profile"
+  ],
+  "hospital": ["Dashboard", "Doctors", "Admissions", "Inventory", "AI Alerts", "Appointments", "Reports", "Profile"],
+  "admin": ["Dashboard", "User Management", "Approvals", "System Logs", "Data Requests", "Settings", "Audit Trail"],
+  "government": [
+    "Dashboard",
+    "Vaccination Analytics",
+    "Community Heatmap",
+    "Disease Outbreaks",
+    "Efficiency Reports",
+    "Location Mapping",
+    "R&D Insights",
+    "Policy Management"
+  ]
+}

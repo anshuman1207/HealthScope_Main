@@ -1,0 +1,48 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "messages": "Messages",
+    "profile": "Profile"
+  },
+  "auth": {
+    "signin": "Sign In",
+    "signup": "Sign Up",
+    "forgot": "Forgot Password?"
+  },
+  "patient": {
+    "myReports": "My Reports",
+    "symptomChecker": "Symptom Checker",
+    "appointments": "Appointments",
+    "nearbyClinics": "Nearby Clinics",
+    "healthPlan": "My Health Plan"
+  },
+  "doctor": {
+    "aiAnalysis": "AI Analysis",
+    "myPatients": "My Patients",
+    "appointments": "Appointments",
+    "alerts": "Alerts",
+    "referrals": "Referrals"
+  },
+  "ngo": {
+    "communityHeatmap": "Community Heatmap",
+    "casesNeedingHelp": "Cases Needing Help",
+    "matchSuggestions": "Match Suggestions",
+    "outreachPlanner": "Outreach Planner",
+    "resources": "Resources"
+  },
+  "hospital": {
+    "doctors": "Doctors",
+    "admissions": "Admissions",
+    "inventory": "Inventory",
+    "aiAlerts": "AI Alerts",
+    "reports": "Reports"
+  },
+  "admin": {
+    "userManagement": "User Management",
+    "approvals": "Approvals",
+    "systemLogs": "System Logs",
+    "dataRequests": "Data Requests",
+    "settings": "Settings",
+    "auditTrail": "Audit Trail"
+  }
+}
